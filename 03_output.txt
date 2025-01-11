@@ -1,0 +1,1 @@
+The total number of words in '03_input.txt' is: 2
